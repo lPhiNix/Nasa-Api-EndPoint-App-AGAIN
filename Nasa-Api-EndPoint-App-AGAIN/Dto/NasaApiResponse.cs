@@ -41,7 +41,7 @@ public class DiameterKilometers
 public class CloseApproachData
 {
     [JsonProperty("close_approach_date")]
-    public string CloseApproachDate { get; set; } = "";
+    public string? CloseApproachDate { get; set; } = "";
 
     [JsonProperty("relative_velocity")]
     public RelativeVelocity RelativeVelocity { get; set; } = new();

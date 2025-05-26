@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nasa-Api-EndPoint-App-AGAIN.props" />
+</Project>

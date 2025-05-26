@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nasa-Api-EndPoint-App-AGAIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a2e6df1d61624f60ffc9a7882c55e86444624ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd4cdf8d8b03210e370a16a52293de44a9ef1d98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nasa-Api-EndPoint-App-AGAIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nasa-Api-EndPoint-App-AGAIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
